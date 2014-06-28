@@ -1,0 +1,16 @@
+{
+  "name": "outter-ws-server",
+  "description":"",
+  "author":"",
+  "version": "",
+  "main": "server.js",
+  "private": true,
+  "repository": "",
+  "dependencies": {
+    "express": "",
+    "socket.io": ""
+  },
+  "engines": {
+    "node": ""
+  }
+}
